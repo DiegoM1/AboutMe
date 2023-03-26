@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Developer with knowledge in Swift, UIKit, Swiftui.<br>3 years ++<br>Love code, Love iOS, love Apple<br>Actually learning more about unit test, concurrency, design patterns.
+iOS Developer with knowledge in Swift, UIKit, Swiftui.<br>3 years ++<br>Love code, Love iOS, love Apple<br>Actually learning more about unit test, concurrency, design patterns.<br>
 "One day or day one"
 
 
