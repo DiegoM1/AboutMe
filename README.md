@@ -7,7 +7,8 @@ iOS Developer with knowledge in Swift, UIKit, Swiftui.<br>5 years ++<br>Love cod
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zamarz#6879) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-monteagudo-diaz-651065128/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DiegoM1/) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 💻 Tech Stack:
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue.svg) ![UIKit](https://img.shields.io/badge/UIKit-blue?style=flat&logo=UIKit&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-orange.svg)  ![Proxyman](https://img.shields.io/badge/Proxyman-gray.svg)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DiegoM1&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoM1&theme=chartreuse-dark&hide_border=false)<br/>
